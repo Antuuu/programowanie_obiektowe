@@ -1,0 +1,16 @@
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.exe
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.deps.json
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.runtimeconfig.json
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.runtimeconfig.dev.json
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.dll
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\ref\lab_1.dll
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\bin\Debug\net5.0\lab_1.pdb
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.csproj.AssemblyReference.cache
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.AssemblyInfoInputs.cache
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.AssemblyInfo.cs
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.csproj.CoreCompileInputs.cache
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.dll
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\ref\lab_1.dll
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.pdb
+D:\Users\kacper.cesarz\source\repos\lab_1\lab_1\obj\Debug\net5.0\lab_1.genruntimeconfig.cache
