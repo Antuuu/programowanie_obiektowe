@@ -1,0 +1,15 @@
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/bin/Debug/net6.0/algorytmy_rownanie
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/bin/Debug/net6.0/algorytmy_rownanie.deps.json
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/bin/Debug/net6.0/algorytmy_rownanie.runtimeconfig.json
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/bin/Debug/net6.0/algorytmy_rownanie.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/bin/Debug/net6.0/algorytmy_rownanie.pdb
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.csproj.AssemblyReference.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.AssemblyInfoInputs.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.AssemblyInfo.cs
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.csproj.CoreCompileInputs.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/refint/algorytmy_rownanie.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.pdb
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/algorytmy_rownanie.genruntimeconfig.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/algorytmy_rownanie/algorytmy_rownanie/obj/Debug/net6.0/ref/algorytmy_rownanie.dll

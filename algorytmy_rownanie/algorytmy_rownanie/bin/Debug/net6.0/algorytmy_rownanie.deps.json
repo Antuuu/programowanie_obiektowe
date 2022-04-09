@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "algorytmy_rownanie/1.0.0": {
+        "runtime": {
+          "algorytmy_rownanie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "algorytmy_rownanie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
