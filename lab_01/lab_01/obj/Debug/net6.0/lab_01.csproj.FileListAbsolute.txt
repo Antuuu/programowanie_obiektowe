@@ -1,0 +1,15 @@
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/bin/Debug/net6.0/lab_01
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/bin/Debug/net6.0/lab_01.deps.json
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/bin/Debug/net6.0/lab_01.runtimeconfig.json
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/bin/Debug/net6.0/lab_01.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/bin/Debug/net6.0/lab_01.pdb
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.csproj.AssemblyReference.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.AssemblyInfoInputs.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.AssemblyInfo.cs
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.csproj.CoreCompileInputs.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/refint/lab_01.dll
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.pdb
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/lab_01.genruntimeconfig.cache
+/Users/kacper/Desktop/wsei/programowanie_obiektowe/lab_01/lab_01/obj/Debug/net6.0/ref/lab_01.dll
